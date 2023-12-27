@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de0c8f18-d79a-473c-b368-c3148daa0b01" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2Xu1uGCQYNKGwIcj4sCFAVGlyVr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Jad El Bied/Desktop/JEE/CC-JEE/Etude-cas-2/mproduits",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="MproduitsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="mproduits" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mproduits.mproduits.MproduitsApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=9001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de0c8f18-d79a-473c-b368-c3148daa0b01" name="Changes" comment="" />
+      <created>1699464374340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699464374340</updated>
+      <workItem from="1699464375470" duration="3634000" />
+      <workItem from="1699552239333" duration="18000" />
+      <workItem from="1700067138557" duration="416000" />
+      <workItem from="1700071457834" duration="1439000" />
+      <workItem from="1700157971499" duration="318000" />
+      <workItem from="1700416717177" duration="2928000" />
+      <workItem from="1700675078438" duration="930000" />
+      <workItem from="1700748021479" duration="1104000" />
+      <workItem from="1700761603994" duration="231000" />
+      <workItem from="1701882711680" duration="1128000" />
+      <workItem from="1703337479016" duration="21000" />
+      <workItem from="1703367479634" duration="317000" />
+      <workItem from="1703593403395" duration="4176000" />
+      <workItem from="1703686110386" duration="618000" />
+      <workItem from="1703689586178" duration="450000" />
+    </task>
+    <task id="LOCAL-00001" summary="M3">
+      <option name="closed" value="true" />
+      <created>1703689602007</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703689602007</updated>
+    </task>
+    <task id="LOCAL-00002" summary="M3">
+      <option name="closed" value="true" />
+      <created>1703690010908</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703690010908</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="M3" />
+    <option name="LAST_COMMIT_MESSAGE" value="M3" />
+  </component>
+</project>
